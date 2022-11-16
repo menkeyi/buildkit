@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/dns/k8s-dns-node-cache:1.16.0
+FROM  gcr.io/istio-testing/install-cni:1.5-dev
