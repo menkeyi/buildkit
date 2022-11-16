@@ -1,1 +1,1 @@
-FROM moby/buildkit:v0.10.3
+FROM k8s.gcr.io/dns/k8s-dns-node-cache:1.16.0
