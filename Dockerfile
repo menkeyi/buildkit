@@ -1,1 +1,2 @@
-FROM  gcr.io/istio-testing/install-cni:1.5-dev
+FROM  moby/buildkit:v0.10.3
+MAINTAINER menkeyi <2826634711@qq.com>
